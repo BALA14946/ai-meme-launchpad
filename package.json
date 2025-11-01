@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@lemon-squeezy/checkout": "^2.0.0",
     "@reown/walletkit": "^1.0.0",
     "@thirdweb-dev/react": "^4.9.0",
     "@thirdweb-dev/sdk": "^4.9.0",
