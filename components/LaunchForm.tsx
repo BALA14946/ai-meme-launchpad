@@ -34,7 +34,8 @@ export default function LaunchForm() {
   };
 
   const handlePremium = () => {
-    window.open('https://your-lemon-squeezy-link.lemonsqueezy.com/checkout/buy/xxx', '_blank');
+    // Replace with your real Lemon Squeezy checkout URL after Step 5
+    window.open('https://app.lemonsqueezy.com/checkout/YOUR_STORE_ID/YOUR_VARIANT_ID?embed=1', '_blank');
   };
 
   return (
